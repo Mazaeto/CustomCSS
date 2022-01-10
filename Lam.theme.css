@@ -1,3 +1,4 @@
+
 @charset "UTF-8";
 @import url("https://nyri4.github.io/donators/donators.css");
 @import url("https://fonts.googleapis.com/css2?family=Nunito");
@@ -1927,7 +1928,7 @@
     --interactive-normal: #e4e4e4;
     --channels-default: #f8f1f3;
 
-    --text-muted: #e4e4e4;
+    --text-muted: #524F4A;
     --interactive-muted: #e2dddd;
 
     --header-secondary: #e4e4e4;
